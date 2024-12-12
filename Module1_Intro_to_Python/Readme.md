@@ -325,6 +325,16 @@ height = 5.6        # Float
 #String
 name = "Alice"      # String
 
+# Empty tuple
+empty_tuple = ()
+
+# Tuple with multiple elements
+multi_element_tuple = (1, 2, 3)
+
+# Tuple with mixed data types
+mixed_tuple = ("apple", 3.14, True)
+
+
 #List
 fruits_list=["Apple", "Banana", "Orange"]
 list=[21, 3.9, "Sameer Shahi"];  # a list of 3 diff type of objects.

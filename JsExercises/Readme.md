@@ -1,5 +1,3 @@
----
-
 ### **1. Data Types Exercises**
 
 #### **Exercise 1: Identify the Data Type**
@@ -145,4 +143,30 @@ Output: 3
 
 ---
 
-Let me know if you want me to elaborate on or solve any of these exercises!
+### 4. File management
+
+Create Python project related to file handling
+
+---
+
+### **Features need to be:**
+
+1. **Read Files:**
+
+- Reading text files line by line.
+- Reading CSV files using the csv module.
+- Reading JSON files using the json module.
+
+2. **Write Files:**
+
+- Writing text to a file.
+- Appending text to an existing file.
+- Writing data to a CSV file.
+- Writing data to a JSON file.
+
+3. **File Operations:**
+
+- Checking file existence.
+- Getting file size.
+- Deleting a file.
+- Renaming a file.
